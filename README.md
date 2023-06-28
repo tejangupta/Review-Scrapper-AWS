@@ -1,4 +1,9 @@
 # Flipkart Review Scrapping
+
+#### Demo
+
+![Review Scraping Demo](https://github.com/tejangupta/Review-Scrapper-AWS/assets/89571912/5cad39e8-926d-47e3-a636-108225261760)
+
 #### Description:
 Flipkart Review Scrapping is a project that aims to gather and analyze customer reviews from the Flipkart online marketplace. Flipkart is a popular e-commerce platform in India that sells a wide range of products including electronics, fashion, books, and more. The project involves scraping customer reviews from various products on Flipkart.
 
